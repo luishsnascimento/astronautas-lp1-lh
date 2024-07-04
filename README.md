@@ -22,8 +22,7 @@ main.cpp: Implementação das funções e lógica principal do programa.
 ## Como Compilar
 Para compilar o projeto, você pode seguir os seguintes passos:
 
-1- Clone o repositório para sua máquina local:
-git clone https://github.com/luishsnascimento/astronautas-lp1-lh.git
+1- Baixe o zip com os arquivos do código.
 2- Navegue até o diretório do projeto:
 cd projeto-lp1-LH
 3- Compile os arquivos utilizando o compilador C++:
