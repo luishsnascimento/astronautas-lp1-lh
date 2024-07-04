@@ -40,5 +40,3 @@ Para executar o programa compilado, basta rodar o seguinte comando:
 3. **Gerenciamento de Voos:** Use o menu para adicionar ou remover passageiros, lançar e concluir voos.
 4. **Listagem:** Utilize as opções de listagem para ver os astronautas e voos cadastrados, bem como listar os astronautas mortos.
 
-*obs: Quando aparecer
-
