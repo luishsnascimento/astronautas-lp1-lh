@@ -23,8 +23,7 @@ main.cpp: Implementação das funções e lógica principal do programa.
 Para compilar o projeto, você pode seguir os seguintes passos:
 
 1- Baixe o zip com os arquivos do código.
-2- Navegue até o diretório do projeto:
-cd projeto-lp1-LH
+2- Navegue até o diretório do projeto.
 3- Compile os arquivos utilizando o compilador C++:
 g++ main.cpp -o teste
 
